@@ -22,12 +22,12 @@ function whileLoop(n){
 }
 
 function maybeTrue() {
-  return Math.random() >= 0.5
+  return Math.random() >= 0.5;
 }
 
 function doWhileLoop(array){
   do {
-    
-  } while ( maybeTrue() {
-}
+    array.pop();
+  } while (maybeTrue()); {
+} return array;
 } 
